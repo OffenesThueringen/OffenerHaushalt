@@ -1,0 +1,1291 @@
+{
+	"context": "getCategoriesWithQuestions",
+	"body": [{
+		"Id": "01",
+		"Name": "Allgemeine Finanzverwaltung",
+		"Description": "Im Haushalt der Allgemeinen Finanzverwaltung erscheinen alle Einnahmen und Ausgaben, die nicht einem bestimmten Verwaltungszweig (Ressort) zugeordnet sind. ",
+		"Value": 2961500000,
+		"Default": 2961500000,
+		"StaticValue": 1974300000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "31",
+			"Name": "Kommunaler Finanzausgleich",
+			"Description": "",
+			"Value": 1900800000,
+			"Default": 1900800000,
+			"StaticValue": 1267200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "32",
+			"Name": "Schuldenaufnahme und Schuldendienst",
+			"Description": "",
+			"Value": 492400000,
+			"Default": 492400000,
+			"StaticValue": 328300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "33",
+			"Name": "Versorgung",
+			"Description": "",
+			"Value": 423300000,
+			"Default": 423300000,
+			"StaticValue": 282200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "34",
+			"Name": "Allgemeine Bewilligungen",
+			"Description": "",
+			"Value": 100200000,
+			"Default": 100200000,
+			"StaticValue": 66800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "35",
+			"Name": "Übrige Einnahmen und Ausgaben",
+			"Description": "",
+			"Value": 17600000,
+			"Default": 17600000,
+			"StaticValue": 11700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "36",
+			"Name": "Staatliche Finanzierungshilfen",
+			"Description": "",
+			"Value": 16600000,
+			"Default": 16600000,
+			"StaticValue": 11100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "37",
+			"Name": "Allgemeine Landesvermögensverwaltung",
+			"Description": "",
+			"Value": 10700000,
+			"Default": 10700000,
+			"StaticValue": 7100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "02",
+		"Name": "Thüringer Ministerium für Bildung, Jugend und Sport",
+		"Description": "Zu den Aufgaben zählen die Aufsicht über das gesamte Schulwesen, die Aus- und Fortbildung der Lehrkräfte, Erwachsenenbildung, Erstattung für Religionslehre, Kindertagesbetreuung, frühkindliche Bildung, Jugendhilfe, Jugendpolitik, Heimaufsicht und erzieherische Hilfen sowie Sport.",
+		"Value": 1659700000,
+		"Default": 1659700000,
+		"StaticValue": 1106500000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "106",
+			"Name": "Grundschulen",
+			"Description": "",
+			"Value": 324100000,
+			"Default": 324100000,
+			"StaticValue": 216100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "107",
+			"Name": "Regelschulen",
+			"Description": "",
+			"Value": 277200000,
+			"Default": 277200000,
+			"StaticValue": 184800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "108",
+			"Name": "Gymnasien",
+			"Description": "",
+			"Value": 245700000,
+			"Default": 245700000,
+			"StaticValue": 163800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "109",
+			"Name": "Berufsbildende Schulen ",
+			"Description": "",
+			"Value": 179300000,
+			"Default": 179300000,
+			"StaticValue": 119500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "110",
+			"Name": "Schulen in freier Trägerschaft",
+			"Description": "",
+			"Value": 154000000,
+			"Default": 154000000,
+			"StaticValue": 102700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "111",
+			"Name": "Förderschulen",
+			"Description": "",
+			"Value": 142500000,
+			"Default": 142500000,
+			"StaticValue": 95000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "112",
+			"Name": "Jugend",
+			"Description": "",
+			"Value": 119000000,
+			"Default": 119000000,
+			"StaticValue": 79300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "113",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 58500000,
+			"Default": 58500000,
+			"StaticValue": 39000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "114",
+			"Name": "Gemeinschaftsschulen",
+			"Description": "",
+			"Value": 21400000,
+			"Default": 21400000,
+			"StaticValue": 14300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "115",
+			"Name": "Staatliche Studienseminare",
+			"Description": "",
+			"Value": 19900000,
+			"Default": 19900000,
+			"StaticValue": 13300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "116",
+			"Name": "Gesamtschulen ",
+			"Description": "",
+			"Value": 18600000,
+			"Default": 18600000,
+			"StaticValue": 12400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "117",
+			"Name": "Schulen/Gemeinsame Ansätze ",
+			"Description": "",
+			"Value": 17600000,
+			"Default": 17600000,
+			"StaticValue": 11700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "118",
+			"Name": "Sportförderung",
+			"Description": "",
+			"Value": 14200000,
+			"Default": 14200000,
+			"StaticValue": 9500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "119",
+			"Name": "Staatliche Schulämter",
+			"Description": "",
+			"Value": 13700000,
+			"Default": 13700000,
+			"StaticValue": 9100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "120",
+			"Name": "Kindertageseinrichtungen",
+			"Description": "",
+			"Value": 12500000,
+			"Default": 12500000,
+			"StaticValue": 8300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "121",
+			"Name": "Erwachsenenbildung",
+			"Description": "",
+			"Value": 6800000,
+			"Default": 6800000,
+			"StaticValue": 4500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "122",
+			"Name": "Sportgymnasium Erfurt ",
+			"Description": "",
+			"Value": 6100000,
+			"Default": 6100000,
+			"StaticValue": 4100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "123",
+			"Name": "Thüringer Institut für Lehrerfortbildung, Lehrplanentwicklung und Medien (ThILLM)",
+			"Description": "",
+			"Value": 5700000,
+			"Default": 5700000,
+			"StaticValue": 3800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "124",
+			"Name": "Sprachengymnasium Schnepfenthal ",
+			"Description": "",
+			"Value": 5700000,
+			"Default": 5700000,
+			"StaticValue": 3800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "125",
+			"Name": "Sportgymnasium Jena",
+			"Description": "",
+			"Value": 5300000,
+			"Default": 5300000,
+			"StaticValue": 3500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "126",
+			"Name": "Staatliche Fachschule für Bau, Wirtschaft und Verkehr",
+			"Description": "",
+			"Value": 4500000,
+			"Default": 4500000,
+			"StaticValue": 3000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "127",
+			"Name": "Sportgymnasium Oberhof",
+			"Description": "",
+			"Value": 4100000,
+			"Default": 4100000,
+			"StaticValue": 2700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "128",
+			"Name": "Musikgymnasium Weimar",
+			"Description": "",
+			"Value": 2100000,
+			"Default": 2100000,
+			"StaticValue": 1400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "129",
+			"Name": "Allgemeine Bewilligungen",
+			"Description": "",
+			"Value": 1000000,
+			"Default": 1000000,
+			"StaticValue": 700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "130",
+			"Name": "Thüringenkolleg ",
+			"Description": "",
+			"Value": 800000,
+			"Default": 800000,
+			"StaticValue": 500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "03",
+		"Name": "Thüringer Ministerium für Wirtschaft, Wissenschaft und Digitale Gesellschaft",
+		"Description": "Das Thüringer Ministerium für Wirtschaft, Wissenschaft und Digitale Gesellschaft ist zuständig für allgemeine Wirtschaftspolitik sowie für regionale und sektorale Strukturpolitik. Es befasst sich mit internationalen Wirtschaftsfragen, insbesondere Angelegenheiten der Europäischen Union. Des Weiteren wirkt es bei der Aufstellung und Ausarbeitung von Grundsätzen für die Gewährung staatlicher Finanzierungshilfen mit.",
+		"Value": 1242300000,
+		"Default": 1242300000,
+		"StaticValue": 828200000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "69",
+			"Name": "Hochschulen gemeinsam",
+			"Description": "",
+			"Value": 450100000,
+			"Default": 450100000,
+			"StaticValue": 300100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "70",
+			"Name": "Allgemeine Bewilligungen im Bereich Wirtschaft",
+			"Description": "",
+			"Value": 221100000,
+			"Default": 221100000,
+			"StaticValue": 147400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "71",
+			"Name": "Strukturfonds",
+			"Description": "",
+			"Value": 167000000,
+			"Default": 167000000,
+			"StaticValue": 111300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "72",
+			"Name": "Studentische Angelegenheiten",
+			"Description": "",
+			"Value": 133800000,
+			"Default": 133800000,
+			"StaticValue": 89200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "73",
+			"Name": "Förderung der Wissenschaft",
+			"Description": "",
+			"Value": 113700000,
+			"Default": 113700000,
+			"StaticValue": 75800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "74",
+			"Name": "Universitätsklinikum Jena",
+			"Description": "",
+			"Value": 84700000,
+			"Default": 84700000,
+			"StaticValue": 56500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "75",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 21300000,
+			"Default": 21300000,
+			"StaticValue": 14200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "76",
+			"Name": "Maßnahmen in den Bereichen Forschung, Technologie und Innovation, Elektromobilität, Digitale Gesellschaft",
+			"Description": "",
+			"Value": 17300000,
+			"Default": 17300000,
+			"StaticValue": 11500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "77",
+			"Name": "Förderung der Forschung",
+			"Description": "",
+			"Value": 9700000,
+			"Default": 9700000,
+			"StaticValue": 6500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "78",
+			"Name": "Berufsakademien / Duale Hochschule Gera-Eisenach",
+			"Description": "",
+			"Value": 9500000,
+			"Default": 9500000,
+			"StaticValue": 6300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "79",
+			"Name": "Maßnahmen zur beruflichen Aufstiegsfortbildung",
+			"Description": "",
+			"Value": 5500000,
+			"Default": 5500000,
+			"StaticValue": 3700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "80",
+			"Name": "Sammelansätze für den Bereich Wissenschaft und Hochschulen",
+			"Description": "",
+			"Value": 3900000,
+			"Default": 3900000,
+			"StaticValue": 2600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "81",
+			"Name": "Materialforschungs- und Prüfanstalt an der Bauhaus-Universität Weimar",
+			"Description": "",
+			"Value": 2700000,
+			"Default": 2700000,
+			"StaticValue": 1800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "82",
+			"Name": "Landessternwarte Tautenburg an der Friedrich-Schiller-Universität Jena",
+			"Description": "",
+			"Value": 2000000,
+			"Default": 2000000,
+			"StaticValue": 1300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "04",
+		"Name": "Thüringer Ministerium für Infrastruktur und Landwirtschaft",
+		"Description": "Das Ministerium für Infrastruktur und Landwirtschaft ist als oberste Landesbehörde u.a. zuständig für die Verwaltung von Städte- und Wohnungsbau, strategische Landesentwicklung, Verkehr, Forsten, Landwirtschaft und Ernährung.",
+		"Value": 1093700000,
+		"Default": 1093700000,
+		"StaticValue": 729100000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "01",
+			"Name": "Allgemeine Bewilligungen",
+			"Description": "",
+			"Value": 313000000,
+			"Default": 313000000,
+			"StaticValue": 208700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "02",
+			"Name": "Untere Straßenbauverwaltung ",
+			"Description": "",
+			"Value": 155100000,
+			"Default": 155100000,
+			"StaticValue": 103400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "03",
+			"Name": "Europäischer Landwirtschaftsfonds (2014 bis 2020)",
+			"Description": "",
+			"Value": 116500000,
+			"Default": 116500000,
+			"StaticValue": 77700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "04",
+			"Name": "Städtebau; Raumordnung und Landesplanung ",
+			"Description": "",
+			"Value": 109500000,
+			"Default": 109500000,
+			"StaticValue": 73000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "05",
+			"Name": "Sozialer Wohnungsbau und Wohngeld",
+			"Description": "",
+			"Value": 70300000,
+			"Default": 70300000,
+			"StaticValue": 46900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "06",
+			"Name": "Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden",
+			"Description": "",
+			"Value": 53700000,
+			"Default": 53700000,
+			"StaticValue": 35800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "07",
+			"Name": "Bewilligungen für Maßnahmen zur Verbesserung der Agrarstruktur (Gemeinschaftsaufgabe)",
+			"Description": "",
+			"Value": 52600000,
+			"Default": 52600000,
+			"StaticValue": 35100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "08",
+			"Name": "Allgemeine Bewilligungen - Landwirtschaft und Forsten",
+			"Description": "",
+			"Value": 46800000,
+			"Default": 46800000,
+			"StaticValue": 31200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "09",
+			"Name": "Landesamt für Bau und Verkehr",
+			"Description": "",
+			"Value": 45900000,
+			"Default": 45900000,
+			"StaticValue": 30600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "10",
+			"Name": "Landesamt für Vermessung und Geoinformation",
+			"Description": "",
+			"Value": 41400000,
+			"Default": 41400000,
+			"StaticValue": 27600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "11",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 30300000,
+			"Default": 30300000,
+			"StaticValue": 20200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "12",
+			"Name": "Thüringer Landesanstalt für Landwirtschaft",
+			"Description": "",
+			"Value": 19300000,
+			"Default": 19300000,
+			"StaticValue": 12900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "13",
+			"Name": "Landwirtschaftsämter",
+			"Description": "",
+			"Value": 18200000,
+			"Default": 18200000,
+			"StaticValue": 12100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "14",
+			"Name": "Ämter für Landentwicklung und Flurneuordnung ",
+			"Description": "",
+			"Value": 15900000,
+			"Default": 15900000,
+			"StaticValue": 10600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "15",
+			"Name": "Lehr- und Versuchsanstalt Gartenbau",
+			"Description": "",
+			"Value": 3300000,
+			"Default": 3300000,
+			"StaticValue": 2200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "16",
+			"Name": "Strategische Landesentwicklung, Raumordnung und Landesplanung",
+			"Description": "",
+			"Value": 2100000,
+			"Default": 2100000,
+			"StaticValue": 1400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "05",
+		"Name": "Thüringer Ministerium für Migration, Justiz und Verbraucherschutz",
+		"Description": "Das Thüringer Ministerium für Migration, Justiz und Verbraucherschutz ist zuständig für die Bereiche Migration, Öffentliches Recht, Zivilrecht, Verbraucherschutz, Strafrecht, Justizvollzug sowie die Juristenausbildung. ",
+		"Value": 743100000,
+		"Default": 743100000,
+		"StaticValue": 495400000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "131",
+			"Name": "Ausländer-, Asyl- und Aussiedlerangelegenheiten, Integration; Beauftragte für Integration, Migration und Flüchtlinge",
+			"Description": "",
+			"Value": 375300000,
+			"Default": 375300000,
+			"StaticValue": 250200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "132",
+			"Name": "Gerichte und Staatsanwaltschaften",
+			"Description": "",
+			"Value": 233700000,
+			"Default": 233700000,
+			"StaticValue": 155800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "133",
+			"Name": "Justizvollzugsanstalten",
+			"Description": "",
+			"Value": 62600000,
+			"Default": 62600000,
+			"StaticValue": 41700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "134",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 34400000,
+			"Default": 34400000,
+			"StaticValue": 22900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "135",
+			"Name": "Gerichte der Sozialgerichtsbarkeit",
+			"Description": "",
+			"Value": 18800000,
+			"Default": 18800000,
+			"StaticValue": 12500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "136",
+			"Name": "Gerichte der Verwaltungsgerichtsbarkeit",
+			"Description": "",
+			"Value": 7700000,
+			"Default": 7700000,
+			"StaticValue": 5100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "137",
+			"Name": "Gerichte der Arbeitsgerichtsbarkeit",
+			"Description": "",
+			"Value": 7300000,
+			"Default": 7300000,
+			"StaticValue": 4900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "138",
+			"Name": "Finanzgericht",
+			"Description": "",
+			"Value": 2200000,
+			"Default": 2200000,
+			"StaticValue": 1500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "139",
+			"Name": "Justizprüfungsamt",
+			"Description": "",
+			"Value": 1100000,
+			"Default": 1100000,
+			"StaticValue": 700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "06",
+		"Name": "Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+		"Description": "Das Thüringer Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie umfasst die Aufgabenbereiche Soziales, Arbeit und Qualifizierung, Gesundheit, Arbeitsschutz, Lebensmittelüberwachung und Veterinärwesen.",
+		"Value": 593700000,
+		"Default": 593700000,
+		"StaticValue": 395800000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "57",
+			"Name": "Die Beauftragten beim Thüringer Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+			"Description": "",
+			"Value": 150000000,
+			"Default": 150000000,
+			"StaticValue": 100000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "58",
+			"Name": "Gesundheitswesen und Maßregelvollzug",
+			"Description": "",
+			"Value": 102600000,
+			"Default": 102600000,
+			"StaticValue": 68400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "59",
+			"Name": "Soziale Angelegenheiten",
+			"Description": "",
+			"Value": 79800000,
+			"Default": 79800000,
+			"StaticValue": 53200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "60",
+			"Name": "Europäischer Sozialfonds",
+			"Description": "",
+			"Value": 77200000,
+			"Default": 77200000,
+			"StaticValue": 51500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "61",
+			"Name": "Maßnahmen der Arbeitsförderung, der sozialen Integration und der Armutsprävention",
+			"Description": "",
+			"Value": 61800000,
+			"Default": 61800000,
+			"StaticValue": 41200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "62",
+			"Name": "Maßnahmen der Familienförderung",
+			"Description": "",
+			"Value": 46000000,
+			"Default": 46000000,
+			"StaticValue": 30700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "63",
+			"Name": "Fachaufgaben des Thüringer Landesverwaltungsamtes für das Thüringer Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+			"Description": "",
+			"Value": 41500000,
+			"Default": 41500000,
+			"StaticValue": 27700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "64",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 20000000,
+			"Default": 20000000,
+			"StaticValue": 13300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "65",
+			"Name": "Eingliederung Behinderter",
+			"Description": "",
+			"Value": 11100000,
+			"Default": 11100000,
+			"StaticValue": 7400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "66",
+			"Name": "Der Ausländerbeauftragte",
+			"Description": "",
+			"Value": 2600000,
+			"Default": 2600000,
+			"StaticValue": 1700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "67",
+			"Name": "Hilfen für Senioren",
+			"Description": "",
+			"Value": 900000,
+			"Default": 900000,
+			"StaticValue": 600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "68",
+			"Name": "Investitionsprogramm/Pflegeeinrichtungen",
+			"Description": "",
+			"Value": 0,
+			"Default": 0,
+			"StaticValue": 0,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "07",
+		"Name": "Thüringer Ministerium für Inneres und Kommunales",
+		"Description": "Das Thüringer Ministerium für Inneres und Kommunales ist zuständig für kommunale Aufgaben und die öffentliche Sicherheit des Freistaats.",
+		"Value": 582700000,
+		"Default": 582700000,
+		"StaticValue": 388500000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "95",
+			"Name": "Landespolizei",
+			"Description": "",
+			"Value": 297000000,
+			"Default": 297000000,
+			"StaticValue": 198000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "96",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 78400000,
+			"Default": 78400000,
+			"StaticValue": 52300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "97",
+			"Name": "Landesverwaltungsamt",
+			"Description": "",
+			"Value": 66300000,
+			"Default": 66300000,
+			"StaticValue": 44200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "98",
+			"Name": "Allgemeine Bewilligungen",
+			"Description": "",
+			"Value": 38900000,
+			"Default": 38900000,
+			"StaticValue": 25900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "99",
+			"Name": "Landeskriminalamt",
+			"Description": "",
+			"Value": 38600000,
+			"Default": 38600000,
+			"StaticValue": 25700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "100",
+			"Name": "Brandschutz, Katastrophenschutz, Rettungsdienste und Zivile Verteidigung",
+			"Description": "",
+			"Value": 18100000,
+			"Default": 18100000,
+			"StaticValue": 12100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "101",
+			"Name": "Polizeibildungseinrichtungen",
+			"Description": "",
+			"Value": 16300000,
+			"Default": 16300000,
+			"StaticValue": 10900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "102",
+			"Name": "Landesamt für Statistik",
+			"Description": "",
+			"Value": 15200000,
+			"Default": 15200000,
+			"StaticValue": 10100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "103",
+			"Name": "Amt für Verfassungsschutz",
+			"Description": "",
+			"Value": 6700000,
+			"Default": 6700000,
+			"StaticValue": 4500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "104",
+			"Name": "Zentrale Fortbildung der obersten Landesbehörde",
+			"Description": "",
+			"Value": 3800000,
+			"Default": 3800000,
+			"StaticValue": 2500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "105",
+			"Name": "Feuerwehrschule",
+			"Description": "",
+			"Value": 3500000,
+			"Default": 3500000,
+			"StaticValue": 2300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "08",
+		"Name": "Thüringer Staatskanzlei",
+		"Description": "Die Staatskanzlei ist der Amtssitz des Ministerpräsidenten von Thüringen. Zu seinen Aufgaben zählen die Bestimmung der Richtlinien der Regierungspolitik laut Verfassung, die Vertretung des Landes nach außen sowie die Führung des Vorsitzes der Landesregierung und die Leitung deren Geschäfte.",
+		"Value": 211600000,
+		"Default": 211600000,
+		"StaticValue": 141100000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "87",
+			"Name": "Kunstpflege",
+			"Description": "",
+			"Value": 140000000,
+			"Default": 140000000,
+			"StaticValue": 93300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "88",
+			"Name": "Kirchen und Religionsgemeinschaften",
+			"Description": "",
+			"Value": 24600000,
+			"Default": 24600000,
+			"StaticValue": 16400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "89",
+			"Name": "Ministerpräsident und Staatskanzlei",
+			"Description": "",
+			"Value": 21000000,
+			"Default": 21000000,
+			"StaticValue": 14000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "90",
+			"Name": "Landesamt für Denkmalpflege und Archäologie",
+			"Description": "",
+			"Value": 13200000,
+			"Default": 13200000,
+			"StaticValue": 8800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "91",
+			"Name": "Staatsarchive",
+			"Description": "",
+			"Value": 6900000,
+			"Default": 6900000,
+			"StaticValue": 4600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "92",
+			"Name": "Bundes- und Europaangelegenheiten ",
+			"Description": "",
+			"Value": 4600000,
+			"Default": 4600000,
+			"StaticValue": 3100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "93",
+			"Name": "Landeszentrale für politische Bildung ",
+			"Description": "",
+			"Value": 1100000,
+			"Default": 1100000,
+			"StaticValue": 700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "94",
+			"Name": "Allgemeine Bewilligungen ",
+			"Description": "",
+			"Value": 200000,
+			"Default": 200000,
+			"StaticValue": 100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "09",
+		"Name": "Thüringer Finanzministerium",
+		"Description": "Das Thüringer Finanzministerium enthält verschiedene Aufgaben, die die Einnahmen und Ausgaben der Finanzverwaltung betreffen. Das Ministerium ist gegliedert in die Geschäftsbereiche Zentrale Aufgaben, Steuern/Steuerpolitik, Landeshaushalt und Finanzaufsicht.",
+		"Value": 184300000,
+		"Default": 184300000,
+		"StaticValue": 122900000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "140",
+			"Name": "Steuerverwaltung",
+			"Description": "",
+			"Value": 123100000,
+			"Default": 123100000,
+			"StaticValue": 82100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "141",
+			"Name": "Landesfinanzdirektion",
+			"Description": "",
+			"Value": 32700000,
+			"Default": 32700000,
+			"StaticValue": 21800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "142",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 25800000,
+			"Default": 25800000,
+			"StaticValue": 17200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "143",
+			"Name": "Bildungszentrum der Thüringer Steuerverwaltung Gotha",
+			"Description": "",
+			"Value": 1500000,
+			"Default": 1500000,
+			"StaticValue": 1000000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "144",
+			"Name": "Zentraler Fahrdienst Thüringen",
+			"Description": "",
+			"Value": 1200000,
+			"Default": 1200000,
+			"StaticValue": 800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "10",
+		"Name": "Thüringer Ministerium für Umwelt, Energie und Naturschutz",
+		"Description": "Das Thüringer Ministerium für Umwelt, Energie und Naturschutz ist die oberste Landesbehörde für die Bereiche Naturschutz, Nachhaltiges Leben, Klima, Wasser, Umweltschutz und Energie. Es bereitet Gesetze vor, beraten Strategien mit Kommunen und Interessengruppen, vertreten die Positionen des Freistaats Thüringen gegenüber dem Bund und der Europäischen Union. ",
+		"Value": 156600000,
+		"Default": 156600000,
+		"StaticValue": 104400000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "50",
+			"Name": "Allgemeine Bewilligungen - Umwelt",
+			"Description": "",
+			"Value": 72500000,
+			"Default": 72500000,
+			"StaticValue": 48300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "51",
+			"Name": "Thüringer Landesanstalt für Umwelt und Geologie",
+			"Description": "",
+			"Value": 28400000,
+			"Default": 28400000,
+			"StaticValue": 18900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "52",
+			"Name": "Ministerium",
+			"Description": "",
+			"Value": 22300000,
+			"Default": 22300000,
+			"StaticValue": 14900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "53",
+			"Name": "Maßnahmen des Naturschutzes und der Nachhaltigkeit",
+			"Description": "",
+			"Value": 10700000,
+			"Default": 10700000,
+			"StaticValue": 7100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "54",
+			"Name": "Maßnahmen zur Energienutzung und Klimaanpassung",
+			"Description": "",
+			"Value": 8600000,
+			"Default": 8600000,
+			"StaticValue": 5700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "55",
+			"Name": "Nationale Naturlandschaften",
+			"Description": "",
+			"Value": 7400000,
+			"Default": 7400000,
+			"StaticValue": 4900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "56",
+			"Name": "Thüringer Landesbergamt",
+			"Description": "",
+			"Value": 6900000,
+			"Default": 6900000,
+			"StaticValue": 4600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "11",
+		"Name": "Staatliche Hochbaumaßnahmen",
+		"Description": "In den Staatlichen Hochbaumaßnahmen sind die Baumaßnahmen in den von der Landesverwaltung genutzten landeseigenen Liegenschaften und die, deren Nutzung Dritten übertragen wurde, veranschlagt. Des Weiteren umfassen sie den Hochschulbau sowie die zivilen und militärischen Hochbauaufgaben des Bundes.",
+		"Value": 135300000,
+		"Default": 135300000,
+		"StaticValue": 90200000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "38",
+			"Name": "Ausbau und Neubau von Hochschulen einschließlich Hochschulkliniken",
+			"Description": "",
+			"Value": 44400000,
+			"Default": 44400000,
+			"StaticValue": 29600000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "39",
+			"Name": "Bauten im Bereich des Thüringer Ministeriums für Migration, Justiz und Verbraucherschutz",
+			"Description": "",
+			"Value": 26800000,
+			"Default": 26800000,
+			"StaticValue": 17900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "40",
+			"Name": "Sammelansätze für den Gesamtbereich des Einzelplanes",
+			"Description": "",
+			"Value": 19100000,
+			"Default": 19100000,
+			"StaticValue": 12700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "41",
+			"Name": "Bauten im Bereich des Thüringer Ministeriums für Inneres und Kommunales",
+			"Description": "",
+			"Value": 10600000,
+			"Default": 10600000,
+			"StaticValue": 7100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "42",
+			"Name": "Bauten im Bereich des Thüringer Ministeriums für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+			"Description": "",
+			"Value": 9100000,
+			"Default": 9100000,
+			"StaticValue": 6100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "43",
+			"Name": "Bauten im Bereich des Thüringer Finanzministeriums",
+			"Description": "",
+			"Value": 8900000,
+			"Default": 8900000,
+			"StaticValue": 5900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "44",
+			"Name": "Bauten im Bereich des Thüringer Ministeriums für Bildung, Jugend und Sport",
+			"Description": "",
+			"Value": 3800000,
+			"Default": 3800000,
+			"StaticValue": 2500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "45",
+			"Name": "Bauten im Bereich des Thüringer Ministeriums für Wirtschaft, Wissenschaft und digitale Gesellschaft",
+			"Description": "",
+			"Value": 3600000,
+			"Default": 3600000,
+			"StaticValue": 2400000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "46",
+			"Name": "Bauten im Bereich der Thüringer Staatskanzlei",
+			"Description": "",
+			"Value": 3300000,
+			"Default": 3300000,
+			"StaticValue": 2200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "47",
+			"Name": "Bauten im Bereich Thüringer Landtag",
+			"Description": "",
+			"Value": 3200000,
+			"Default": 3200000,
+			"StaticValue": 2100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "48",
+			"Name": "Bauten im Bereich des Thüringer Ministeriums für Umwelt, Energie und Naturschutz ",
+			"Description": "",
+			"Value": 1800000,
+			"Default": 1800000,
+			"StaticValue": 1200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "49",
+			"Name": "Bauten im Bereich des Thüringer Ministeriums für Infrastruktur und Landwirtschaft",
+			"Description": "",
+			"Value": 800000,
+			"Default": 800000,
+			"StaticValue": 500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "12",
+		"Name": "Informations- und Kommunikationstechnik",
+		"Description": "In dieser Kategorie sind die Einnahmen und Ausgaben für Informations- und Kommunikationstechnik der Landesverwaltung veranschlagt.",
+		"Value": 126400000,
+		"Default": 126400000,
+		"StaticValue": 84300000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "19",
+			"Name": "Thüringer Landesrechenzentrum",
+			"Description": "",
+			"Value": 38000000,
+			"Default": 38000000,
+			"StaticValue": 25300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "20",
+			"Name": "IuK - zentrale Projekte",
+			"Description": "",
+			"Value": 33300000,
+			"Default": 33300000,
+			"StaticValue": 22200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "21",
+			"Name": "Thüringer Ministerium für Inneres und Kommunales",
+			"Description": "",
+			"Value": 19100000,
+			"Default": 19100000,
+			"StaticValue": 12700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "22",
+			"Name": "Thüringer Ministerium für Migration, Justiz und Verbraucherschutz",
+			"Description": "",
+			"Value": 12400000,
+			"Default": 12400000,
+			"StaticValue": 8300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "23",
+			"Name": "Thüringer Finanzministerium",
+			"Description": "",
+			"Value": 10200000,
+			"Default": 10200000,
+			"StaticValue": 6800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "24",
+			"Name": "Thüringer Ministerium für Infrastruktur und Landwirtschaft",
+			"Description": "",
+			"Value": 5500000,
+			"Default": 5500000,
+			"StaticValue": 3700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "25",
+			"Name": "Thüringer Ministerium für Bildung, Jugend und Sport",
+			"Description": "",
+			"Value": 2600000,
+			"Default": 2600000,
+			"StaticValue": 1700000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "26",
+			"Name": "Thüringer Ministerium für Umwelt, Energie und Naturschutz",
+			"Description": "",
+			"Value": 1800000,
+			"Default": 1800000,
+			"StaticValue": 1200000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "27",
+			"Name": "Thüringer Staatskanzlei",
+			"Description": "",
+			"Value": 1600000,
+			"Default": 1600000,
+			"StaticValue": 1100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "28",
+			"Name": "Thüringer Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+			"Description": "",
+			"Value": 1300000,
+			"Default": 1300000,
+			"StaticValue": 900000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "29",
+			"Name": "Thüringer Ministerium für Wirtschaft, Wissenschaft und digitale Gesellschaft",
+			"Description": "",
+			"Value": 500000,
+			"Default": 500000,
+			"StaticValue": 300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "30",
+			"Name": "Thüringer Rechnungshof",
+			"Description": "",
+			"Value": 200000,
+			"Default": 200000,
+			"StaticValue": 100000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "13",
+		"Name": "Thüringer Landtag",
+		"Description": "Der Thüringer Landtag ist das Zentrum der demokratischen Willensbildung im Freistaat. Er übt die gesetzgebende Gewalt aus, wählt den Ministerpräsidenten bzw. die Ministerpräsidentin, kontrolliert das Handeln der Regierung und debattiert über wichtige Zukunftsfragen des Landes. Bei den alle fünf Jahre stattfindenden Wahlen entscheiden die Bürgerinnen und Bürger über seine Zusammensetzung und damit zugleich über die politische Entwicklung Thüringens.",
+		"Value": 48100000,
+		"Default": 48100000,
+		"StaticValue": 32100000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "83",
+			"Name": "Landtag",
+			"Description": "",
+			"Value": 44700000,
+			"Default": 44700000,
+			"StaticValue": 29800000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "84",
+			"Name": "Landesbeauftragter für den Datenschutz und die Informationsfreiheit",
+			"Description": "",
+			"Value": 2000000,
+			"Default": 2000000,
+			"StaticValue": 1300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "85",
+			"Name": "Landesbeauftragter zur Aufarbeitung der SED-Diktatur",
+			"Description": "",
+			"Value": 800000,
+			"Default": 800000,
+			"StaticValue": 500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}, {
+			"Id": "86",
+			"Name": "Bürgerbeauftragter",
+			"Description": "",
+			"Value": 500000,
+			"Default": 500000,
+			"StaticValue": 300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "14",
+		"Name": "Thüringer Rechnungshof",
+		"Description": "Der Thüringer Rechnungshof überwacht die gesamte Haushalts- und Wirtschaftsführung des Landes. Er übermittelt jährlich das Ergebnis seiner Prüfung gleichzeitig dem Landtag und der Landesregierung und kann auf Grund von Prüfungserfahrungen den Landtag, die Landesregierung und einzelne Ministerien beraten. Der Rechnungshof ist eine selbstständige, nur dem Gesetz unterworfene oberste Landesbehörde.",
+		"Value": 11300000,
+		"Default": 11300000,
+		"StaticValue": 7500000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "17",
+			"Name": "Rechnungshof",
+			"Description": "",
+			"Value": 11300000,
+			"Default": 11300000,
+			"StaticValue": 7500000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}, {
+		"Id": "15",
+		"Name": "Thüringer Verfassungsgerichtshof",
+		"Description": "Der Thüringer Verfassungsgerichtshof ist ein allen anderen Verfassungsorganen gegenüber selbstständiges und unabhängiges Gericht des Landes. Der Sitz des Thüringer Verfassungsgerichtshofs ist in Weimar und besteht aus dem Präsidenten sowie acht weiteren Mitgliedern. Dabei sind die Mitglieder des Verfassungsgerichtshofs ehrenamtlich tätig.",
+		"Value": 400000,
+		"Default": 400000,
+		"StaticValue": 300000,
+		"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden.",
+		"SubCategories": [{
+			"Id": "18",
+			"Name": "Thüringer Verfassungsgerichtshof",
+			"Description": "",
+			"Value": 400000,
+			"Default": 400000,
+			"StaticValue": 300000,
+			"StaticValueReason": "Zwei Drittel des Budgets dieser Kategorie sind unveränderbar, da sie für Ausgaben vorgesehen sind, die nicht kurzfristig gestrichen werden können. Das Budget kann daher nicht weiter reduziert werden."
+		}]
+	}]
+}
